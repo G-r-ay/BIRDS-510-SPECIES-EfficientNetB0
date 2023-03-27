@@ -24,7 +24,7 @@ To use the trained model to classify bird species, you can run the main.py scrip
 
 Here's an example command to run the script:
 
-python main.py path/to/image.jpg
+```python main.py path/to/image.jpg```
 
 
 The output will be the predicted bird species, along with the model's confidence level.
