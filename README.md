@@ -4,7 +4,7 @@ This project is focused on building a machine learning model that can accurately
 
 ## Dataset
 
-The dataset used in this project is the 510 Bird Species dataset, which consists of images of 510 different bird species.
+The dataset used in this project is the 510 Bird Species dataset, which consists of images of 510 different bird species. [Dataset](https://www.kaggle.com/datasets/gpiosenka/100-bird-species)
 
 ## Model
 
